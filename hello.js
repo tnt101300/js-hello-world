@@ -1,10 +1,15 @@
-/*  
-Welcome, new coder. 
-Enter your code on line 7 to print 'Hello, World!' 
-to the console (the panel on the right)
-*/
-
-console.log("Hello");
+/**
+ * Welcome, new coder.
+ * Enter your code on line 7 to print 'Hello, World!'
+ * to the console (the panel on the right)
+ *
+ * @format
+ */ var array = ['A', 'bird', 'in', 'hand'];
+for (var i = 0; i < array.length; i++) {
+	console.log(array[i]);
+}
+console.log('"hello"');
+console.log('I said "Hi"');
 
 /*  
 Next, PLAY! 
